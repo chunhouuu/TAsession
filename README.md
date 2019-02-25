@@ -8,4 +8,4 @@ Any questions or suggestions are encouraged, and feel free to contact with me wh
 
 ### Course Contents
 
-* [Introduction to Stata and R.](https://github.com/goatinooo/TAsession/blob/master/notebooks/TA_0226.ipynb)
+* [Introduction to Stata and R](https://docs.google.com/presentation/d/1fWnpCKJI9ehsnK34w0AVuY78kw22cxmemwNP40Cq8R0/edit?usp=sharing) - [Notebooks of Stata](https://github.com/goatinooo/TAsession/blob/master/notebooks/Stata_0226.ipynb) & [Noteboook of R](https://github.com/goatinooo/TAsession/blob/master/notebooks/R_0226.ipynb) & [Datasets](https://www.dropbox.com/sh/jntf88gxonve89u/AABS3jp0GIyjq-1YRfenMfgTa?dl=0)
