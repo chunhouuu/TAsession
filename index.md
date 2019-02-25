@@ -1,8 +1,10 @@
-## Welcome to TA session
+## Welcome to TA session of Statistics and Econometrics II
 
-You can use the [editor on GitHub](https://github.com/goatinooo/goatinooo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This website contains all material for TA session. The material includes one slides for brief outline and two lecture notes of Stata and R for practicing. I will update weekly slides and lecture notes before TA session.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The aim of this website is for convenience to find different types of files. However, the material in each week will also be uploaded to [the course website](https://cool.ntu.edu.tw/courses/213).
+
+Any questions or suggestions are encouraged, and feel free to contact me whether in person or via email: r05323035@ntu.edu.tw.
 
 ### Course Contents
 
