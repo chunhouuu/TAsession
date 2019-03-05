@@ -9,3 +9,4 @@ Any questions or suggestions are encouraged, and feel free to contact with me wh
 ### Course Contents
 
 * [Introduction to Stata and R](https://docs.google.com/presentation/d/1fWnpCKJI9ehsnK34w0AVuY78kw22cxmemwNP40Cq8R0/edit?usp=sharing) - [Notebooks of Stata](https://github.com/goatinooo/TAsession/blob/master/notebooks/Stata_0226.ipynb) & [Noteboook of R](https://github.com/goatinooo/TAsession/blob/master/notebooks/R_0226.ipynb) & [Datasets](https://www.dropbox.com/sh/jntf88gxonve89u/AABS3jp0GIyjq-1YRfenMfgTa?dl=0)
+* [Regression and Basic Plot](https://docs.google.com/presentation/d/1X1TuX43Pz0EeQHXXZT9jI14BQYo8qGlVBPpejPgrPRE/edit?usp=sharing) - [Notebooks of Stata](https://github.com/goatinooo/TAsession/blob/master/notebooks/Stata_0305.ipynb) & [Notebook of R](https://github.com/goatinooo/TAsession/blob/master/notebooks/R_0305.ipynb) & [Dataset](https://www.dropbox.com/sh/vq1lvm0wdga0a73/AAAPRRpgcXKJ-Id6DVWE8Syla?dl=0)
