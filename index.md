@@ -15,6 +15,7 @@ Any questions or suggestions are encouraged, and feel free to contact with me wh
 * [Data Visualization (1)](https://docs.google.com/presentation/d/148wVUztxropmASxj0shWful50ekcU8F9wyf7DEDtXDA/edit?usp=sharing) - [Notebooks of Stata](https://github.com/goatinooo/TAsession/blob/master/notebooks/Stata_0326.ipynb) & [Notebook of R](https://github.com/goatinooo/TAsession/blob/master/notebooks/R_0326.ipynb) & [Dataset](https://www.dropbox.com/sh/l0e1wdsxt7stlp7/AABrkA6A0vn5A9V3AszgYZdAa?dl=0)
 * [Midterm Review (1)](https://docs.google.com/presentation/d/1RK1q02KplMSnd5sqguWRQaGi2TLcs0Vjcln6Kx7h274/edit?usp=sharing) - [Notebooks of Stata](https://github.com/goatinooo/TAsession/blob/master/notebooks/Stata_0409.ipynb) & [Dataset](https://www.dropbox.com/sh/vq1lvm0wdga0a73/AAAPRRpgcXKJ-Id6DVWE8Syla?dl=0)
 * [Midterm Review (2)](https://www.dropbox.com/s/c50ui3f1gyp33sy/sildes0416.pdf?dl=0)
+
 ---
 * [Midterm Review - Answer Key](https://www.dropbox.com/s/gu2eakwsd1n0t6y/sildes_0430.pdf?dl=0)
 * [Regression with Panel Data](https://www.dropbox.com/s/ank3k63aihmuiy7/sildes_0507_panel.pdf?dl=0) - [Notebooks of Stata](https://github.com/goatinooo/TAsession/blob/master/notebooks/Stata_0507_panel.ipynb) & [Notebook of R](https://github.com/goatinooo/TAsession/blob/master/notebooks/R_0507_panel.ipynb) & [Dataset](https://www.dropbox.com/sh/hx95dp25zj2bafo/AADENIA3_EN3-Mab-wqr1qcHa?dl=0)
