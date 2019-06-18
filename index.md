@@ -18,8 +18,6 @@ Any questions or suggestions are encouraged, and feel free to contact with me wh
 
 --- Midterm ---
 
----
-
 * [Midterm - Answer Key](https://www.dropbox.com/s/gu2eakwsd1n0t6y/sildes_0430.pdf?dl=0)
 * [Regression with Panel Data](https://www.dropbox.com/s/ank3k63aihmuiy7/sildes_0507_panel.pdf?dl=0) - [Notebook of Stata](https://github.com/goatinooo/TAsession/blob/master/notebooks/Stata_0507_panel.ipynb) & [Notebook of R](https://github.com/goatinooo/TAsession/blob/master/notebooks/R_0507_panel.ipynb) & [Data](https://www.dropbox.com/sh/hx95dp25zj2bafo/AADENIA3_EN3-Mab-wqr1qcHa?dl=0)
 * [Regression with a Binary Dependent Variable](https://www.dropbox.com/s/1ou7e99272pfjm4/sildes_0514.pdf?dl=0) - [Notebook of Stata](https://github.com/goatinooo/TAsession/blob/master/notebooks/Stata_0507_binaryY.ipynb) & [Notebook of R](https://github.com/goatinooo/TAsession/blob/master/notebooks/R_0507_binaryY.ipynb) & [Data](https://www.dropbox.com/sh/hx95dp25zj2bafo/AADENIA3_EN3-Mab-wqr1qcHa?dl=0)
