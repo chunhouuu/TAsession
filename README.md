@@ -25,3 +25,5 @@ Any questions or suggestions are encouraged, and feel free to contact with me wh
 * [Experiments and Quasi-Experiments](https://www.dropbox.com/s/ga9ahf3k1y7bcc5/sildes_0528.pdf?dl=0) - [Notebook of Stata](https://github.com/goatinooo/TAsession/blob/master/notebooks/Stata_0528.ipynb) & [Data](https://www.dropbox.com/sh/vz6ee895cs8x7lw/AABEjReamLkymVe3gFI2ZYsYa?dl=0)
 * [Ridge and Lasso in Stata](https://www.dropbox.com/s/em3zvv5f82uc793/sildes_0604_BigData.pdf?dl=0) - [Notebook of Stata](https://github.com/goatinooo/TAsession/blob/master/notebooks/Stata_0604.ipynb) & [Data](https://www.dropbox.com/sh/8tk5s8z5mpzzuvi/AACiVKg82OJiw1tPG662S38ga?dl=0)
 * [Final Review](https://www.dropbox.com/s/wdv75lh9llcjw3a/sildes_0604_Review.pdf?dl=0)
+
+--- Final ---
